@@ -11,7 +11,7 @@ For this analysis, I played the role of an Data Analyst to analyze data from a d
 - Some of the questions we will answer in the analysis are:   
         1. What is the Top 5 most available jobs each year?   
         2. What is the average salary of different experience level for each job category?         
-        3. What is the average salary of job categories over the year?
+        3. What is the average salary of job categories over the year?  
         4. How is company size affects jobs' salary?        
         5. How is work settings affect jobs' salary?        
         6. Find some insights regarding entry-level job categories in the United States in 2023.
